@@ -1,72 +1,77 @@
-# Cybersecurity-Certifications
 # 🔐 Cybersecurity Certifications Portfolio
 
-This repository contains my cybersecurity certifications, showcasing my learning journey and hands-on experience in security concepts, tools, and real-world simulations.
+Hi, I'm **Pradhuman Singh Chouhan** — a cybersecurity enthusiast focused on building practical skills in **SOC operations, threat detection, and network security**.
+
+This repository showcases my certifications and hands-on learning journey in cybersecurity.
 
 ---
 
-## 📜 Certifications
+## 🧾 Certifications
 
 ### 🥇 EC-Council Certifications
 
 * **Certified Secure Computer User (CSCU)**
+  📅 Issued: May 2025
+  🔗 [View Certificate](#)
 
-  * Covers fundamental cybersecurity concepts, threat awareness, and data protection.
 * **EC-Council Certified Security Specialist (ECSS)**
-
-  * Includes network security, cryptography basics, and application security.
+  📅 Issued: December 2025
+  🔗 [View Certificate](#)
 
 ---
 
 ### 🎯 Specialized Certifications
 
-* **Certified Phishing Prevention Specialist (CPPS) – Hack & Fix**
-
-  * Focused on identifying and preventing phishing and social engineering attacks.
+* **Certified Phishing Prevention Specialist (CPPS)**
+  🔗 [View Certificate](#)
 
 ---
 
 ### 🛠️ Technical Training
 
-* **Ethical Hacking Course – MyCaptain**
-
-  * Covers penetration testing basics, vulnerability assessment, and security tools.
-* **Real Nmap: Network Scanning, Recon & Exploit Discovery – Udemy**
-
-  * Hands-on training in network scanning, reconnaissance, and vulnerability discovery.
+* **Ethical Hacking – MyCaptain**
+* **Nmap Network Scanning – Udemy**
 
 ---
 
 ### 💼 Job Simulations (Forage)
 
-* **Cyber Job Simulation – Deloitte**
-
-  * Practical exposure to real-world cybersecurity tasks and threat analysis.
-* **Cybersecurity Analyst Job Simulation**
-
-  * Focused on Identity and Access Management (IAM) and security workflows.
+* Cyber Job Simulation – Deloitte
+* Cybersecurity Analyst Simulation
 
 ---
 
-## 🧠 Skills Gained
+## 🏆 Achievements & Recognition
+
+* Recommendation Letter – MyCaptain
+* Appreciation Letter – MyCaptain
+
+---
+
+## 🧠 Skills Demonstrated
 
 * Network Security
 * Threat Detection
 * Log Analysis
 * Vulnerability Assessment
-* Penetration Testing Basics
-* SIEM Fundamentals
+* SIEM Basics
 * Wireshark & Nmap
 
 ---
 
-## 🚀 Objective
+## 🎯 Career Focus
 
-Aspiring to start a career as a **SOC Analyst / Cybersecurity Analyst**, applying practical knowledge and continuously improving security skills.
+Aspiring **SOC Analyst / Cybersecurity Analyst**, with hands-on exposure to real-world tools and simulations.
 
 ---
 
-## 🔗 Connect with Me
+## 📌 Note
 
-* LinkedIn: (Add your link)
+All certifications are verifiable via links or supporting documents in this repository.
+
+---
+
+## 🔗 Connect With Me
+
+* LinkedIn: (Add link)
 * Portfolio: (Add later)

@@ -102,7 +102,7 @@ I actively practice cybersecurity skills on TryHackMe, completing labs related t
 * Penetration Testing Basics
 * Threat Detection
 
-🔗 Profile: [https://tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/pradhumanchouhan)
+🔗 Profile: (https://tryhackme.com/p/pradhumanchouhan)
 
 ---
 

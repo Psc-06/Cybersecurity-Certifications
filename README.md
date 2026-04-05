@@ -12,18 +12,18 @@ This repository showcases my certifications and hands-on learning journey in cyb
 
 * **Certified Secure Computer User (CSCU)**
   📅 Issued: May 2025
-  🔗 [View Certificate](#)
+  🔗 [View Certificate](![CSCU](./Ec-Council/ECC-CSCU-Certificate.pdf))
 
 * **EC-Council Certified Security Specialist (ECSS)**
   📅 Issued: December 2025
-  🔗 [View Certificate](#)
+  🔗 [View Certificate](![ECSS](./Ec-Council/ECC-Certificate.pdf))
 
 ---
 
 ### 🎯 Specialized Certifications
 
 * **Certified Phishing Prevention Specialist (CPPS)**
-  🔗 [View Certificate](#)
+  🔗 [View Certificate](![CPPS](./Hack-Fix/CPPS-Certificate.jpg))
 
 ---
 

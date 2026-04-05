@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Certifications Portfolio
 
-Hi, I'm **Pradhuman Singh Chouhan** — a cybersecurity enthusiast focused on building skills in **SOC operations, threat detection, and network security**.
+Hi, I'm **Pradhuman Singh Chouhan** — a cybersecurity enthusiast focused on **SOC operations, threat detection, and network security**.
 
 This repository showcases my certifications and practical learning journey in cybersecurity.
 
@@ -13,12 +13,12 @@ This repository showcases my certifications and practical learning journey in cy
 #### Certified Secure Computer User (CSCU)
 
 📅 Issued: May 2025
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/ec-council/CSCU-EC-Council.pdf)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Ec-Council/ECC-CSCU-Certificate.pdf)
 
 #### EC-Council Certified Security Specialist (ECSS)
 
 📅 Issued: December 2025
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/ec-council/ECSS-EC-Council.pdf)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Ec-Council/ECC-Certificate.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ This repository showcases my certifications and practical learning journey in cy
 
 #### Certified Phishing Prevention Specialist (CPPS)
 
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/hack-fix/CPPS-HackFix.jpg)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Hack-Fix/CPPS-Certificate.jpg)
 
 ---
 
@@ -34,11 +34,11 @@ This repository showcases my certifications and practical learning journey in cy
 
 #### Ethical Hacking – MyCaptain
 
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/mycaptain/Ethical-Hacking-Certificate.jpg)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/MyCaptain/MyCaptain%20certificate.jpg)
 
 #### Nmap Network Scanning – Udemy
 
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/udemy/Nmap-Udemy.pdf)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Udemy/Nmap%20Udemy%20Certificate.pdf)
 
 ---
 
@@ -46,11 +46,11 @@ This repository showcases my certifications and practical learning journey in cy
 
 #### Cyber Job Simulation – Deloitte
 
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/forage/Cyber-Job-Simulation.pdf)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Forage/CyberJob%20Simulation.pdf)
 
 #### Cybersecurity Analyst Job Simulation
 
-🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/forage/Cybersecurity-Analyst-Simulation.pdf)
+🔗 [View Certificate](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Forage/CyberSecurity%20Analyst%20Job%20Simulation%20Forage.pdf)
 
 ---
 
@@ -58,11 +58,11 @@ This repository showcases my certifications and practical learning journey in cy
 
 #### Recommendation Letter – MyCaptain
 
-🔗 [View Document](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/achievements/Recommendation-Letter-MyCaptain.jpg)
+🔗 [View Document](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Achievements/Letter%20of%20recommendation.png)
 
 #### Appreciation Letter – MyCaptain
 
-🔗 [View Document](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/achievements/Appreciation-Letter-MyCaptain.jpg)
+🔗 [View Document](https://raw.githubusercontent.com/Psc-06/Cybersecurity-Certifications/main/Achievements/Appreciation%20letter.png)
 
 ---
 
@@ -80,14 +80,29 @@ This repository showcases my certifications and practical learning journey in cy
 
 ## 🎯 Career Focus
 
-Aspiring **SOC Analyst / Cybersecurity Analyst**, with hands-on exposure to tools, labs, and real-world simulations.
+Aspiring **SOC Analyst / Cybersecurity Analyst**, with hands-on exposure to real-world tools and simulations.
 
 ---
 
 ## 🔗 Connect With Me
 
-* LinkedIn: (Add your link)
-* Portfolio: (Add later)
+* 💼 LinkedIn: www.linkedin.com/in/pradhuman-singh-chouhan-239706311
+* 💻 GitHub: https://github.com/Psc-06
+
+---
+
+---
+
+## 🧪 Hands-on Practice
+
+I actively practice cybersecurity skills on TryHackMe, completing labs related to:
+
+* Network Security
+* Web Application Security
+* Penetration Testing Basics
+* Threat Detection
+
+🔗 Profile: [https://tryhackme.com/p/YOUR_USERNAME](https://tryhackme.com/p/pradhumanchouhan)
 
 ---
 
